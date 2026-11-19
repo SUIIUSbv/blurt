@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  
+  <!-- Speech bubble -->
+  <path fill="#FF5A36" d="M24 10h64c9.9 0 18 8.1 18 18v38c0 9.9-8.1 18-18 18H52l-24 22V84h-4c-9.9 0-18-8.1-18-18V28c0-9.9 8.1-18 18-18z"/>
+  <!-- Words inside -->
+  <rect x="24" y="32" width="64" height="11" rx="5.5" fill="#fff"/>
+  <rect x="24" y="52" width="40" height="11" rx="5.5" fill="#fff"/>
+  <!-- Words spilling out -->
+  <rect x="70" y="92" width="52" height="11" rx="5.5" fill="#FF5A36"/>
+  <rect x="86" y="111" width="36" height="11" rx="5.5" fill="#FF5A36"/>
+</svg>
